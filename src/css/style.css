@@ -17,7 +17,7 @@ body {
 
 .header {
     margin: 40px auto;
-    z-index: 99;
+    z-index: 999;
     position: relative;
     max-width: 700px;
 }
