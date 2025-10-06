@@ -39,7 +39,7 @@ Caso tenha interesse em conversar sobre projetos, parcerias ou oportunidades, en
 
 - **Email**: flaviannasaldanhadev@gmail.com  
 - **LinkedIn**: https://www.linkedin.com/in/flavianna-saldanha/
-- **Site do projeto**: 
+- **Site do projeto**: https://flavianna-saldanha.github.io/projeto-ia/
 
 ---
 
